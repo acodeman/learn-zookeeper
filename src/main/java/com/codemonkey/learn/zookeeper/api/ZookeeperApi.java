@@ -10,7 +10,11 @@ import org.apache.zookeeper.ZooDefs.Ids;
 import org.apache.zookeeper.ZooKeeper;
 
 import com.alibaba.fastjson.JSON;
-
+/**
+ * 测试
+ * @author 
+ *
+ */
 public class ZookeeperApi {
 
 	public static void main(String[] args) throws IOException, KeeperException,
